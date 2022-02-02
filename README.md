@@ -57,13 +57,3 @@ submit issues (here), email (person@email.com) for questions
 # License
 
 [(license name here)](LICENSE)
-
-
-----
-{"gitdown": "gitinfo", "name": "url"}
-
----
-
-{"gitdown": "contents"}
-
-
