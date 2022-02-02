@@ -1,17 +1,27 @@
----
-toc:
-  depth_from: 1
-  depth_to: 3 #controls max depth of table of contents
----
-
-# Overview {ignore=true}
-## Intended audience {ignore=true}
-## Goal / key takeaway {ignore=true}
+# Overview
+## Intended audience
+## Goal / key takeaway
 **Title:** Another Great Contribution to Our Understanding of the World
 **Authors:** A. Dent, F. Prefect, T. McMillan, Z. Beeblebrox, M. Android
 
-# Table of Contents {ignore=true}
-[TOC]
+# Table of Contents 
+*see [archive/auto_TOC_outline.md](archive/auto_TOC_outline.md) for a version which automatically repopulates the table of contents every time a file is saved*
+
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Methods](#methods)
+  - [first method](#first-method)
+  - [second method](#second-method)
+- [Results](#results)
+  - [first results section](#first-results-section)
+    - [Figure 1: caption](#figure-1-caption)
+    - [Figure 2: caption](#figure-2-caption)
+  - [second results section](#second-results-section)
+    - [Figure 3: caption](#figure-3-caption)
+    - [Figure 4: caption](#figure-4-caption)
+- [Discussion](#discussion)
+- [References](#references)
+- [Supplement](#supplement)
 
 # Abstract
 
