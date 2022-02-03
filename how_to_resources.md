@@ -121,3 +121,6 @@ Markdown can be easily written using most text editors, however extensible edito
 
 # Converting to other formats (including LaTeX) with the power of pandoc
 🚧 can be automated on pushing to github repo 🚧  
+
+# Other scientific writing templates in Markdown
+https://github.com/jaantollander/Markdown-Templates
