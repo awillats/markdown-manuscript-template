@@ -4,7 +4,9 @@ basic structure for a planning, writing, sharing a scientific manuscript and rel
 ----
 🚧 DOI badge goes here 🚧 
 
-Manuscript for "Something Great" by A Person and Another Person
+Manuscript for 
+@import "_meta/title.md" 
+@import "_meta/authors.md"
 
 pre-print: https://www.bioariv.org
 paper is published and available at journal.com
@@ -13,7 +15,9 @@ paper is published and available at journal.com
 
 # Repo Organization
 
-- [outline.md](outline.md)
+- [outline.md](outline.md) - outline, overview of the manuscript
+- [manuscript_v1.md](manuscript_v1.md) - full document for compiling into pdf
+  - imports sections of text
 - [writing_sections/](/writing_sections/0_abstract.md) - text for the manuscript split into chapters
 - [figures/](figures/fig1_overview.png) - output files for figures
 - [publish/](publish/example.pdf) - compiled pdfs, html files
@@ -21,11 +25,10 @@ paper is published and available at journal.com
 - [data/](data/README.md) - raw data sources
 - [code/](code/setup.py) - code required to perform analysis, generate figures
   - ( consider saving pre-trained models, additional documentation also )
-- [planning/](planning/to-do-list.md) - to-do list for work in progress items 
+- [_planning/](_planning/to-do-list.md) - to-do list for work in progress items 
   - *can remove from final main branch*
-- [archive/](archive/old_draft.txt)
+- [_archive/](_archive/old_draft.txt)
   - *can remove from final main branch*
-
 
 
 # Main plots 

@@ -1,8 +1,8 @@
 # Overview
 ## Intended audience
 ## Goal / key takeaway
-**Title:** Another Great Contribution to Our Understanding of the World
-**Authors:** A. Dent, F. Prefect, T. McMillan, Z. Beeblebrox, M. Android
+@import "_meta/title.md" 
+@import "_meta/authors.md"
 
 # Table of Contents 
 *see [archive/auto_TOC_outline.md](archive/auto_TOC_outline.md) for a version which automatically repopulates the table of contents every time a file is saved*
