@@ -6,7 +6,7 @@ basic structure for a planning, writing, sharing a scientific manuscript and rel
 
 Manuscript for "Something Great" by A Person and Another Person
 
-pre-print: https://www.bioariv.org
+pre-print: https://www.bioarxiv.org
 paper is published and available at journal.com
 
 **Abstract:** Lorem Ipsum
