@@ -17,6 +17,10 @@ authors: A Person
 # Results
 ## section A
 @import "writing_sections/3A_results.md"
+
+
+!!!! - note 
+
 ## section B
 @import "writing_sections/3B_results.md"
 ## section C
