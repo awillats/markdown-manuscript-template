@@ -8,7 +8,7 @@ Manuscript for
 @import "_meta/title.md" 
 @import "_meta/authors.md"
 
-pre-print: https://www.bioariv.org
+pre-print: https://www.bioarxiv.org
 paper is published and available at journal.com
 
 **Abstract:** Lorem Ipsum
