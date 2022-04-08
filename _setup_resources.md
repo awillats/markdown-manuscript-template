@@ -4,8 +4,14 @@ This document is not intended to be part of the final manuscript repository, but
 see [GitHub's documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 # Making the repository citable
-🚧 zenodo / DOI links here 🚧 
 
+[Making your project citable - DOI w/Zenodo](https://coderefinery.github.io/github-without-command-line/doi/)
+
+[What is a CITATION.cff file?](https://citation-file-format.github.io/)
+
+> We’ve just added built-in citation support to GitHub so researchers and scientists can more easily receive acknowledgments for their contributions to software.
+> Just push a CITATION.cff file and we’ll add a handy widget to the repo sidebar for you.
+https://twitter.com/natfriedman/status/1420122675813441540
 
 # Useful features of ("GitHub flavored") Markdown
 ### much simpler syntax for common annotation
